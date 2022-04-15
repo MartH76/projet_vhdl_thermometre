@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Mar 10 09:52:30 2022
+# Process ID: 1440
+# Current directory: D:/Projet_VHDL_MHAH_thermo/Projet_VHDL_MHAH_thermo.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Projet_VHDL_MHAH_thermo/Projet_VHDL_MHAH_thermo.sim/sim_1/behav/xsim/xsim.dir/NegToPos_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Projet_VHDL_MHAH_thermo/Projet_VHDL_MHAH_thermo.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Projet_VHDL_MHAH_thermo/Projet_VHDL_MHAH_thermo.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Projet_VHDL_MHAH_thermo/Projet_VHDL_MHAH_thermo.sim/sim_1/behav/xsim/xsim.dir/NegToPos_tb_behav/webtalk/xsim_webtalk.tcl -notrace

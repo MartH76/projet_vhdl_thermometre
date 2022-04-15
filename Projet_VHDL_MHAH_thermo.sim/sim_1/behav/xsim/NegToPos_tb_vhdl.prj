@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Projet_VHDL_MHAH_thermo.srcs/sources_1/new/NegToPos.vhd" \
+"../../../../Projet_VHDL_MHAH_thermo.srcs/sim_1/new/tb_NegToPos.vhd" \
+
+# Do not sort compile order
+nosort

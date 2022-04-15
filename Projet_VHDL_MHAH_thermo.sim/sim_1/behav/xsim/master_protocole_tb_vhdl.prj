@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Projet_VHDL_MHAH_thermo.srcs/sources_1/new/compteur.vhd" \
+"../../../../Projet_VHDL_MHAH_thermo.srcs/sources_1/new/master_protocole.vhd" \
+"../../../../Projet_VHDL_MHAH_thermo.srcs/sources_1/new/timer.vhd" \
+"../../../../Projet_VHDL_MHAH_thermo.srcs/sim_1/new/tb_master_protocole.vhd" \
+
+# Do not sort compile order
+nosort
